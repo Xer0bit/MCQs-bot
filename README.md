@@ -47,8 +47,8 @@ mcq-generator
 
 1. Clone the repository:
    ```
-   git clone <repository-url>
-   cd mcq-generator
+   git clone https://github.com/Xer0bit/MCQs-bot
+   cd MCQs-bot
    ```
 
 2. Install the required dependencies:
